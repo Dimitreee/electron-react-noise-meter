@@ -21,8 +21,7 @@ module.exports = {
     { file: 'test/actions/counter.spec.ts' },
     { file: 'test/components/Counter.spec.tsx' },
     { file: 'test/containers/CounterPage.spec.tsx' },
-    { file: 'test/reducers/counter.spec.ts' },
-    { file: 'erb-logo.png' }
+    { file: 'test/reducers/counter.spec.ts' }
   ],
   // clean the following files by either clearing them
   // (by specifying {clear: true}) or by removing lines

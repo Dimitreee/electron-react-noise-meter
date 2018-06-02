@@ -5,7 +5,7 @@ import Root from './containers/core/Root';
 
 render(
   <AppContainer>
-      <Root/>
+    <Root />
   </AppContainer>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
